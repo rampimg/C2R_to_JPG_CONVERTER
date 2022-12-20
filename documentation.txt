@@ -1,0 +1,8 @@
+
+Steps to use the script
+
+1. Install Python
+2. Import all the required modules
+3. Open CMD and locate the folder where you placed the script and run below command
+
+python converter1.py --source Source_Path --destination Destination_path
